@@ -92,7 +92,8 @@ coca-cola-sales-dashboard/
 
 ## 📷 Dashboard Preview
 
-*Add dashboard screenshot here*
+<img width="1233" height="665" alt="Screenshot 2026-05-02 140141" src="https://github.com/user-attachments/assets/6cc51d95-b104-4675-98da-407f985b1394" />
+
 
 ---
 
